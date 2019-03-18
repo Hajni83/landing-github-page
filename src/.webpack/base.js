@@ -33,7 +33,7 @@ module.exports = {
 },
 
   resolve: {
-    extensions: [".js", ".vue", ".json"],
+    extensions: [".js", ".vue", ".json", ".svg", ".jpg"],
     alias: {
       assets: utils.resolve("../src/assets"),
       pages: utils.resolve("../src/pages"),
