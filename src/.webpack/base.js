@@ -29,7 +29,7 @@ module.exports = {
     path: resolveApp('docs'),
     filename: 'assets/js/[name].[hash:4].js',
     chunkFilename: 'assets/js/[name].[hash:4].chunk.js',
-    publicPath: '/',
+    publicPath: '/landing-github-page/',
 },
 
   resolve: {
