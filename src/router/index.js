@@ -72,7 +72,7 @@ import UiSortable from "pages/app/ui/Sortable";
 
 const routes = [
   {
-    path: "/",
+    path: "/landing-github-page/",
     component:LandingPages,
     redirect: "/app",
     children: [
